@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9117911d.css","mappings":"AACA,KAIE,sBAAuB,CAFvB,aAAc,CADd,eAAgB,CAEhB,YAEF,CAEA,GAEE,UAAW,CADX,iBAEF","sources":["App.css"],"sourcesContent":["/* App-wide styles */\n.App {\n  max-width: 800px;\n  margin: 0 auto;\n  padding: 20px;\n  font-family: sans-serif;\n}\n\nh1 {\n  text-align: center;\n  color: #333;\n}\n"],"names":[],"sourceRoot":""}
